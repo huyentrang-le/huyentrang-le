@@ -40,14 +40,14 @@ I am pursuing to become a Computer Network Researcher in AIOT Architecture & Blo
 
 - 🔭 I’m working as a Software Engineer and contributing to zero-knowledge proof for building D3Applications.
 - 🌱 Currently building a mini project on Blockchain Web3 Application, and IoT with the integration of Generative AI reasoning.
-- ⚡ All of my projects are available at [Hazel repository](https://github.com/hazel260802)
+- ⚡ All of my projects are available at [Hazel repository](https://github.com/huyentrang-le)
 - 📫 How to reach me: **lehuyentrang.workmail@gmail.com**
 
 ---
 
 ### 🔥 &nbsp; My Stats :
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=hazel260802&theme=vision-friendly-dark&hide_border=true)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hazel260802&theme=github_dark)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=huyentrang-le&theme=vision-friendly-dark&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huyentrang-le&theme=github_dark)
 
 ---
 
